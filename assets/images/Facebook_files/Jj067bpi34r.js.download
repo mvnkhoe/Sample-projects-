@@ -1,0 +1,4 @@
+;/*FB_PKG_DELIM*/
+
+__d("CometComposerFooterScheduledBanner.react",["fbt","react","withComposerViewStatePart"],(function(a,b,c,d,e,f,g,h){"use strict";var i,j=i||d("react");function a(a){a=a.scheduledPostDate;if(!a)return null;var b=a==null?void 0:a.toDateString();a=a==null?void 0:a.toLocaleTimeString();return j.jsx("div",{className:"x1rv0eb3 xyamay9 x2b8uid",children:h._("__JHASH__oEF_h4yppRV__JHASH__",[h._param("scheduled_post_date_string",b),h._param("scheduled_post_time_string",a)])})}a.displayName=a.name+" [from "+f.id+"]";b=c("withComposerViewStatePart")(a,function(a){return{scheduledPostDate:a.scheduledPostDate}});g["default"]=b}),226);
+__d("CreateFundraiserBeginFalcoEvent",["FalcoLoggerInternal","getFalcoLogPolicy_DO_NOT_USE"],(function(a,b,c,d,e,f,g){"use strict";a=c("getFalcoLogPolicy_DO_NOT_USE")("1743524");b=d("FalcoLoggerInternal").create("create_fundraiser_begin",a);e=b;g["default"]=e}),98);

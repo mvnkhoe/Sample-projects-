@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "513601838507",
+    "project_id": "lesothoorders",
+    "storage_bucket": "lesothoorders.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:513601838507:android:bcd9777f2b69a839ef06ee",
+        "android_client_info": {
+          "package_name": "com.ex"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyC6TXofcKdPD9oDkG6tIcOjOoGb5evTO0Q"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

@@ -1,0 +1,4 @@
+;/*FB_PKG_DELIM*/
+
+__d("MWXIconMenuItemCautionTriangle",["MWXSvgIcon","SVGIcon","cr:9422","gkx"],(function(a,b,c,d,e,f,g){"use strict";a=d("MWXSvgIcon").mwxSvgMenuItemIcon(d("SVGIcon").svgIcon(b("cr:9422")),c("gkx")("23219"));g["default"]=a}),98);
+__d("MWXIconMenuItemLeave",["MWXSvgIcon","SVGIcon","cr:9526","gkx"],(function(a,b,c,d,e,f,g){"use strict";a=d("MWXSvgIcon").mwxSvgMenuItemIcon(d("SVGIcon").svgIcon(b("cr:9526")),c("gkx")("23219"));g["default"]=a}),98);

@@ -1,0 +1,4 @@
+;/*FB_PKG_DELIM*/
+
+__d("PageFamilyOfAppsLinkFalcoEvent",["FalcoLoggerInternal","getFalcoLogPolicy_DO_NOT_USE"],(function(a,b,c,d,e,f,g){"use strict";a=c("getFalcoLogPolicy_DO_NOT_USE")("1744098");b=d("FalcoLoggerInternal").create("page_family_of_apps_link",a);e=b;g["default"]=e}),98);
+__d("logPageFamilyOfAppsLinksJSUI",["PageFamilyOfAppsLinkFalcoEvent"],(function(a,b,c,d,e,f,g){"use strict";function a(a,b,d,e,f,g){c("PageFamilyOfAppsLinkFalcoEvent").log(function(){return{entry_point:e,event_data:{event_location:f,event_name:d,event_type:"ui",flow_type:"page_whatsapp_linking"},flow_source:b,linking_direction:"page_to_wa",page_id:a,whatsapp_number:g}})}g["default"]=a}),98);
